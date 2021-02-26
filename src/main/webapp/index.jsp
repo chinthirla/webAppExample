@@ -28,10 +28,7 @@
                 </div>
 
                 <div id="div-confirmsubscription-tandc" class="subscription_tandclist hidden">
-                    <ul>
-                        $CONFIRMSUBSCRIPTIONTERMSLIST$
-                    </ul>
-                </div>
+                                   </div>
 
                 <showallpacks data-packsall="true">
                     <pack data-packtype="default">
